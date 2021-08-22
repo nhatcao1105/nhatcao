@@ -1,1 +1,3 @@
-Hello developer
+<?php
+echo "Hello World"
+?>
